@@ -50,14 +50,14 @@ s([X,Y], [X,Ynovo],ListaBarris, ListaParedes,ListaEscadas):- Y<4, Ynovo is Y + 1
 %			1) Caso não haja parede nem barril, anda uma unidade
 %			2) Caso haja um barril, anda duas unidades se não houver parede ou outro barril
 s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X<9, Xnovo is X + 1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)).
-s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X<8, Xnovo is X + 2, Xmid is X+1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)), pertence([Xmid, Y], ListaBarris).
+s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X<8, Xnovo is X + 2, Xmid is X+1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)), not(pertence([Xnovo, Y], ListaEscadas)), pertence([Xmid, Y], ListaBarris).
 
 % Esquerda
 % Dois casos:
 %			1) Caso não haja parede nem barril, anda uma unidade
 %			2) Caso haja um barril, anda duas unidades se não houver parede ou outro barril
 s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X>0, Xnovo is X - 1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)).
-s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X>1, Xnovo is X - 2, Xmid is X-1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)), pertence([Xmid, Y], ListaBarris).
+s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X>1, Xnovo is X - 2, Xmid is X-1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)), not(pertence([Xnovo, Y], ListaEscadas)), pertence([Xmid, Y], ListaBarris).
 % ====================================================== FUNCOES DE MOVIMENTOS =================================================================
 
 
@@ -113,3 +113,14 @@ main(PosicaoInicial, ListaBarris, ListaParedes, ListaEscadas, PosicaoMartelo, S)
 	solucao_bl(X, ListaBarris,ListaParedes,ListaEscadas, [9, 0], S3),
 	concatena(S3, Y, S4),
 	inverte(S4, S).
+
+
+% Exemplos casos de teste
+% SLIDE1
+% main([0,4], [[4,4], [5,4], [1,2], [1,0], [5,0], [8,1]], [], [[3,4], [9,3], [6,2], [3,1]], [7,2], S).
+% SLIDE2
+% main([0,4], [[2,2], [4,2], [6,3], [5,0], [7,1]], [[2,0], [6,4]], [[0,3], [3,4], [3,1], [6,2], [8,4], [9,3]], [9,4], S).
+% SLIDE3
+% main([0,4], [[5,2], [5,0], [6,3], [6,1], [7,2]], [[3,1], [6,0]], [[8,4], [2,3], [0,2], [9,2], [2,1], [7,1]], [0,0], S).
+% SLIDE4
+% main([0,4], [[3,3], [3,1], [6,3], [5,0]], [[2,2], [6,0]], [[4,4], [8,3], [0,2], [9,2], [2,1], [4,1], [7,1]], [1,2], S).
