@@ -11,22 +11,22 @@
 %──▄█▒▒▒▄██████▄▒▒▒▒▄█████▄▒▒▒▒█──			 ______                      __                           
 %──█▒▒▒█▀░░░░░▀█─▒▒▒█▀░░░░▀█▒▒▒█──			|      \                    |  \                 
 %──█▒▒▒█░░▄░░░░▀████▀░░░▄░░█▒▒▒█──			|$$$$$$$\  ______   ______  | $$   __   ______   __    __ 
-%▄███▄▒█▄░▐▀▄░░░░░░░░░▄▀▌░▄█▒▒███▄			|$$  | $$ /      \ |      \ | $$  /  \ /      \ |  \  |  \				
-%█▀░░█▄▒█░▐▐▀▀▄▄▄─▄▄▄▀▀▌▌░█▒▒█░░▀█			|$$  | $$|  $$$$$$\|$$$$$$$\| $$_/  $$|  $$$$$$\| $$  | $$
-%█░░░░█▒█░▐▐──▄▄─█─▄▄──▌▌░█▒█░░░░█			|$$  | $$| $$  | $$|$$  | $$| $$   $$ | $$    $$| $$  | $$ 
-%█░▄░░█▒█░▐▐▄─▀▀─█─▀▀─▄▌▌░█▒█░░▄░█			|$$__/ $$| $$__/ $$|$$  | $$| $$$$$$\ | $$$$$$$$| $$__/ $$
-%█░░█░█▒█░░▌▄█▄▄▀─▀▄▄█▄▐░░█▒█░█░░█			|$$    $$ \$$    $$|$$  | $$| $$  \$$\ \$$     \ \$$    $$
-%█▄░█████████▀░░▀▄▀░░▀█████████░▄█			\$$$$$$$   \$$$$$$  \$$  \$$ \$$   \$$  \$$$$$$$ _\$$$$$$$
-%─██▀░░▄▀░░▀░░▀▄░░░▄▀░░▀░░▀▄░░▀██                                                  			|  \__| $$ 
-%██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                  		 \$$    $$ 
-%█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█                                                   		   \$$$$$$ 
-%█░▄░░░░░░░░░░░░░░░░░░░░░░░░░░░▄░█
-%█░▀█▄░░░░░░░░░░░░░░░░░░░░░░░▄█▀░█             __    __ 
-%█░░█▀███████████████████████▀█░░█            |  \  /  \    
-%█░░█────█───█───█───█───█────█░░█            | $$ /  $$ 
-%█░░▀█───█───█───█───█───█───█▀░░█						 ______   _______    ______  
-%█░░░▀█▄▄█▄▄▄█▄▄▄█▄▄▄█▄▄▄█▄▄█▀░░░█            | $$/  $$ /      \ |       \  /      \ 
-%▀█░░░█──█───█───█───█───█──█░░░█▀            | $$  $$ |  $$$$$$\| $$$$$$$\|  $$$$$$\ 
+%▄███▄▒█▄░▐▀▄░░░░░░░░░▄▀▌░▄█▒▒███▄			|$$  | $$ /      \ |      \ | $$  /  \ /      \ |  \  |  \					
+%█▀░░█▄▒█░▐▐▀▀▄▄▄─▄▄▄▀▀▌▌░█▒▒█░░▀█			|$$  | $$|  $$$$$$\|$$$$$$$\| $$_/  $$|  $$$$$$\| $$  | $$			▒▒▒▒▒▒▒▒▒▄▄▄▄▒▒▒▒▒▒▒
+%█░░░░█▒█░▐▐──▄▄─█─▄▄──▌▌░█▒█░░░░█			|$$  | $$| $$  | $$|$$  | $$| $$   $$ | $$    $$| $$  | $$ 			▒▒▒▒▒▒▄▀▀▓▓▓▀█▒▒▒▒▒▒
+%█░▄░░█▒█░▐▐▄─▀▀─█─▀▀─▄▌▌░█▒█░░▄░█			|$$__/ $$| $$__/ $$|$$  | $$| $$$$$$\ | $$$$$$$$| $$__/ $$			▒▒▒▒▄▀▓▓▄██████▄▒▒▒▒
+%█░░█░█▒█░░▌▄█▄▄▀─▀▄▄█▄▐░░█▒█░█░░█			|$$    $$ \$$    $$|$$  | $$| $$  \$$\ \$$     \ \$$    $$			▒▒▒▄█▄█▀░░▄░▄░█▀▒▒▒▒
+%█▄░█████████▀░░▀▄▀░░▀█████████░▄█			\$$$$$$$   \$$$$$$  \$$  \$$ \$$   \$$  \$$$$$$$ _\$$$$$$$			▒▒▄▀░██▄░░▀░▀░▀▄▒▒▒▒
+%─██▀░░▄▀░░▀░░▀▄░░░▄▀░░▀░░▀▄░░▀██                                                  			|  \__| $$ 			▒▒▀▄░░▀░▄█▄▄░░▄█▄▒▒▒
+%██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██                                                  		 \$$    $$ 			▒▒▒▒▀█▄▄░░▀▀▀█▀▒▒▒▒▒
+%█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█                                                   		   \$$$$$$ 			▒▒▒▄▀▓▓▓▀██▀▀█▄▀▀▄▒▒
+%█░▄░░░░░░░░░░░░░░░░░░░░░░░░░░░▄░█																				▒▒█▓▓▄▀▀▀▄█▄▓▓▀█░█▒▒
+%█░▀█▄░░░░░░░░░░░░░░░░░░░░░░░▄█▀░█             __    __ 														▒▒▀▄█░░░░░█▀▀▄▄▀█▒▒▒
+%█░░█▀███████████████████████▀█░░█            |  \  /  \    													▒▒▒▄▀▀▄▄▄██▄▄█▀▓▓█▒▒
+%█░░█────█───█───█───█───█────█░░█            | $$ /  $$ 														▒▒█▀▓█████████▓▓▓█▒▒
+%█░░▀█───█───█───█───█───█───█▀░░█            | $$ /  $$ ______   _______    ______  							▒▒█▓▓██▀▀▀▒▒▒▀▄▄█▀▒▒
+%█░░░▀█▄▄█▄▄▄█▄▄▄█▄▄▄█▄▄▄█▄▄█▀░░░█            | $$/  $$ /      \ |       \  /      \ 							▒▒▒▀▀▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+%▀█░░░█──█───█───█───█───█──█░░░█▀            | $$  $$ |  $$$$$$\| $$$$$$$\|  $$$$$$\ 							
 %─▀█░░▀█▄█───█───█───█───█▄█▀░░█▀─            | $$$$$\ | $$  | $$| $$  | $$| $$  | $$ 
 %──▀█░░░▀▀█▄▄█───█───█▄▄█▀▀░░░█▀──            | $$ \$$\| $$__/ $$| $$  | $$| $$__| $$ 
 %───▀█░░░░░▀▀█████████▀▀░░░░░█▀───            | $$  \$$\\$$    $$| $$  | $$ \$$    $$ 
@@ -39,25 +39,25 @@
 % ====================================================== FUNCOES DE MOVIMENTOS =================================================================
 % Cima
 % Somente onde há uma escada
-s([X,Y], [X,Yout],ListaBarris, ListaParedes,ListaEscadas):- Y>0, Yout is Y - 1, pertence([X, Y], ListaEscadas), not(pertence([X, Yout], ListaParedes)).
+s([X,Y], [X,Ynovo],ListaBarris, ListaParedes,ListaEscadas):- Y>0, Ynovo is Y - 1, pertence([X, Y], ListaEscadas), not(pertence([X, Ynovo], ListaParedes)).
 
 % Baixo
 % Somente se na posição abaixo há uma escada
-s([X,Y], [X,Yout],ListaBarris, ListaParedes,ListaEscadas):- Y<4, Yout is Y + 1, pertence([X, Yout], ListaEscadas), not(pertence([X, Yout], ListaParedes)).
+s([X,Y], [X,Ynovo],ListaBarris, ListaParedes,ListaEscadas):- Y<4, Ynovo is Y + 1, pertence([X, Ynovo], ListaEscadas), not(pertence([X, Ynovo], ListaParedes)).
 
 % Direita
 % Dois casos:
 %			1) Caso não haja parede nem barril, anda uma unidade
 %			2) Caso haja um barril, anda duas unidades se não houver parede ou outro barril
-s([X,Y], [Xout,Y],ListaBarris, ListaParedes,ListaEscadas):- X<9, Xout is X + 1, not(pertence([Xout, Y], ListaParedes)), not(pertence([Xout, Y], ListaBarris)).
-s([X,Y], [Xout,Y],ListaBarris, ListaParedes,ListaEscadas):- X<8, Xout is X + 2, Xmid is X+1, not(pertence([Xout, Y], ListaParedes)), not(pertence([Xout, Y], ListaBarris)), pertence([Xmid, Y], ListaBarris).
+s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X<9, Xnovo is X + 1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)).
+s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X<8, Xnovo is X + 2, Xmid is X+1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)), pertence([Xmid, Y], ListaBarris).
 
 % Esquerda
 % Dois casos:
 %			1) Caso não haja parede nem barril, anda uma unidade
 %			2) Caso haja um barril, anda duas unidades se não houver parede ou outro barril
-s([X,Y], [Xout,Y],ListaBarris, ListaParedes,ListaEscadas):- X>0, Xout is X - 1, not(pertence([Xout, Y], ListaParedes)), not(pertence([Xout, Y], ListaBarris)).
-s([X,Y], [Xout,Y],ListaBarris, ListaParedes,ListaEscadas):- X>1, Xout is X - 2, Xmid is X-1, not(pertence([Xout, Y], ListaParedes)), not(pertence([Xout, Y], ListaBarris)), pertence([Xmid, Y], ListaBarris).
+s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X>0, Xnovo is X - 1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)).
+s([X,Y], [Xnovo,Y],ListaBarris, ListaParedes,ListaEscadas):- X>1, Xnovo is X - 2, Xmid is X-1, not(pertence([Xnovo, Y], ListaParedes)), not(pertence([Xnovo, Y], ListaBarris)), pertence([Xmid, Y], ListaBarris).
 % ====================================================== FUNCOES DE MOVIMENTOS =================================================================
 
 
@@ -83,7 +83,8 @@ pertence(E, [_|Cauda]):- pertence(E, Cauda).
 
 
 % ==================================================== BUSCA EVOLUTIVA ======================================================
-estende([Estado|Caminho],ListaSucessores,ListaBarris, ListaParedes,ListaEscadas):- bagof([Sucessor,Estado|Caminho], (s(Estado,Sucessor,ListaBarris,ListaParedes,ListaEscadas), not(pertence(Sucessor,[Estado|Caminho]))), ListaSucessores),!.
+estende([Estado|Caminho],ListaSucessores,ListaBarris, ListaParedes,ListaEscadas):- 
+	bagof([Sucessor,Estado|Caminho], (s(Estado,Sucessor,ListaBarris,ListaParedes,ListaEscadas), not(pertence(Sucessor,[Estado|Caminho]))), ListaSucessores),!.
 estende( _ ,[], _, _, _). 
 
 bl([[Estado|Caminho]|_],ListaBarris, ListaParedes,ListaEscadas,Objetivo, [Estado|Caminho]) :- meta(Estado, Objetivo).
@@ -105,7 +106,7 @@ solucao_bl(PosicaoInicial,ListaBarris,ListaParedes,ListaEscadas, Objetivo, Soluc
 %             posicao do martelo para matar o donkey kong
 %             variavel para receber o caminho percorrido
 
-% A Princesa Peach e o Donkey Kong se encontram no último andar e última linha em todos os casos de teste
+% A Princesa Peach e o Donkey Kong se encontram no último andar e última coluna em todos os casos de teste
 main(PosicaoInicial, ListaBarris, ListaParedes, ListaEscadas, PosicaoMartelo, S) :-
 	solucao_bl(PosicaoInicial,ListaBarris,ListaParedes,ListaEscadas, PosicaoMartelo, S2),
 	cons(X, Y, S2),
